@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="405" -->
+<!--#set var="ERRORPAGE_TEXT" value="Method Not Allowed" -->
+<!--#set var="ERRORPAGE_INFO" value="The request method, with which the server has been requested is not allowed." -->
+
+<!--#include file="main.shtml" -->

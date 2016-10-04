@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="400" -->
+<!--#set var="ERRORPAGE_TEXT" value="Bad Request" -->
+<!--#set var="ERRORPAGE_INFO" value="Your browser (or proxy) sent a request that this server could not understand." -->
+
+<!--#include file="main.shtml" -->

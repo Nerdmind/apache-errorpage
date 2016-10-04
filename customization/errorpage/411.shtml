@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="411" -->
+<!--#set var="ERRORPAGE_TEXT" value="Length Required" -->
+<!--#set var="ERRORPAGE_INFO" value="The request method, with which the server has been requested requires a valid <code>Content-Length</code> header." -->
+
+<!--#include file="main.shtml" -->

@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="415" -->
+<!--#set var="ERRORPAGE_TEXT" value="Unsupported Media Type" -->
+<!--#set var="ERRORPAGE_INFO" value="The server does not support the media type transmitted in the request." -->
+
+<!--#include file="main.shtml" -->

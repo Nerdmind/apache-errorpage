@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="401" -->
+<!--#set var="ERRORPAGE_TEXT" value="Unauthorized" -->
+<!--#set var="ERRORPAGE_INFO" value="This server could not verify that you are authorized to access this resource." -->
+
+<!--#include file="main.shtml" -->

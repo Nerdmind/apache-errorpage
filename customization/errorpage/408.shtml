@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="408" -->
+<!--#set var="ERRORPAGE_TEXT" value="Request Timeout" -->
+<!--#set var="ERRORPAGE_INFO" value="The server closed the network connection because the client didn't finish the request within the specified time." -->
+
+<!--#include file="main.shtml" -->

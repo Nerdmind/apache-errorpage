@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="504" -->
+<!--#set var="ERRORPAGE_TEXT" value="Gateway Timeout" -->
+<!--#set var="ERRORPAGE_INFO" value="The gateway did not receive a timely response from the upstream server or application." -->
+
+<!--#include file="main.shtml" -->

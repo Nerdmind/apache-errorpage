@@ -1,0 +1,5 @@
+<!--#set var="ERRORPAGE_CODE" value="409" -->
+<!--#set var="ERRORPAGE_TEXT" value="Conflict" -->
+<!--#set var="ERRORPAGE_INFO" value="" -->
+
+<!--#include file="main.shtml" -->
