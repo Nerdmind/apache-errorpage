@@ -6,6 +6,7 @@ This customization requires that your Apache HTTP server is equal to or greater 
 
 * `mod_alias`: <https://httpd.apache.org/docs/2.4/mod/mod_alias.html>
 * `mod_include`: <https://httpd.apache.org/docs/2.4/mod/mod_include.html>
+* `mod_authz_core`: <https://httpd.apache.org/docs/2.4/mod/mod_authz_core.html>
 
 ## SSI variables
 The following variables are defined within each `xxx.shtml` file within the `customization/errorpage/` directory:
