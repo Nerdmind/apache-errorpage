@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="413" -->
 <!--#set var="ERRORPAGE_TEXT" value="Payload Too Large" -->
-<!--#set var="ERRORPAGE_INFO" value="The request method, with which the server has been requested does not allow the data transmitted, or the data volume exceeds the capacity limit." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The request method, with which the server has been requested does not allow the data transmitted, or the data volume exceeds the capacity limit.</div>
+<!--#include file="footer.shtml" -->

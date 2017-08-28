@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="403" -->
 <!--#set var="ERRORPAGE_TEXT" value="Forbidden" -->
-<!--#set var="ERRORPAGE_INFO" value="You don't have permission to access the requested resource." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>You don't have permission to access the requested resource.</div>
+<!--#include file="footer.shtml" -->

@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="503" -->
 <!--#set var="ERRORPAGE_TEXT" value="Service Unavailable" -->
-<!--#set var="ERRORPAGE_INFO" value="The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.</div>
+<!--#include file="footer.shtml" -->

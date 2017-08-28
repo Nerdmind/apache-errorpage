@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="414" -->
 <!--#set var="ERRORPAGE_TEXT" value="Request-URI Too Large" -->
-<!--#set var="ERRORPAGE_INFO" value="The length of the requested URL exceeds the capacity limit for this server. The request cannot be processed." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The length of the requested URL exceeds the capacity limit for this server. The request cannot be processed.</div>
+<!--#include file="footer.shtml" -->

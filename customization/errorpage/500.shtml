@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="500" -->
 <!--#set var="ERRORPAGE_TEXT" value="Internal Server Error" -->
-<!--#set var="ERRORPAGE_INFO" value="The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there was an error in a CGI script." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there was an error in a CGI script.</div>
+<!--#include file="footer.shtml" -->

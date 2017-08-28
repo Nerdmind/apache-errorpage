@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="410" -->
 <!--#set var="ERRORPAGE_TEXT" value="Gone" -->
-<!--#set var="ERRORPAGE_INFO" value="The requested resource is no longer available on this server and there is no forwarding address." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The requested resource is no longer available on this server and there is no forwarding address.</div>
+<!--#include file="footer.shtml" -->

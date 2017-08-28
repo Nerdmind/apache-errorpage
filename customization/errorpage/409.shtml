@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="409" -->
 <!--#set var="ERRORPAGE_TEXT" value="Conflict" -->
-<!--#set var="ERRORPAGE_INFO" value="" -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The request could not be completed due to a conflict with the current state of the resource.</div>
+<!--#include file="footer.shtml" -->

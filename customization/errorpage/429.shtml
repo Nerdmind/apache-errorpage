@@ -1,0 +1,7 @@
+<!--#set var="ERRORPAGE_CODE" value="429" -->
+<!--#set var="ERRORPAGE_TEXT" value="Too Many Requests" -->
+
+<!--#include file="header.shtml" -->
+	<div>The server has detected an unusually high number of requests from your network address <strong><span><!--#echo var="REMOTE_ADDR" --></span></strong>
+	 and will not process further requests until the flooding has subsided.</div>
+<!--#include file="footer.shtml" -->

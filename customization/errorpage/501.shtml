@@ -1,5 +1,6 @@
 <!--#set var="ERRORPAGE_CODE" value="501" -->
 <!--#set var="ERRORPAGE_TEXT" value="Not Implemented" -->
-<!--#set var="ERRORPAGE_INFO" value="The server does not support the action requested by the client." -->
 
-<!--#include file="main.shtml" -->
+<!--#include file="header.shtml" -->
+	<div>The server does not support the action requested by the client.</div>
+<!--#include file="footer.shtml" -->
