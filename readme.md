@@ -13,7 +13,6 @@ The following variables are defined within each `xxx.shtml` file within the `cus
 
 * `ERRORPAGE_CODE`: This variable contains the HTTP status code for the current error or information page.
 * `ERRORPAGE_TEXT`: This variable contains the description of the HTTP status code defined with `ERRORPAGE_CODE`.
-* `ERRORPAGE_INFO`: This variable contains an additional and *meaningful* description for the user about the current page.
 
 ## Installation
 All files and directories provided in this package are relative to the `/etc/apache2/` (depends on the system you use) directory. To activate the configuration, just execute `a2enconf errorpage` and reload the configuration with `systemctl reload apache2`.
