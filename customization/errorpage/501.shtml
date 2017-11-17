@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Not Implemented" -->
 
 <!--#include file="header.shtml" -->
-	<div>The server does not support the action requested by the client.</div>
+	<p>The server does not support the action requested by the client.</p>
 <!--#include file="footer.shtml" -->

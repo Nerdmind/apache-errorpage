@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Gone" -->
 
 <!--#include file="header.shtml" -->
-	<div>The requested resource is no longer available on this server and there is no forwarding address.</div>
+	<p>The requested resource is no longer available on this server and there is no forwarding address.</p>
 <!--#include file="footer.shtml" -->

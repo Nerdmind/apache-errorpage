@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Method Not Allowed" -->
 
 <!--#include file="header.shtml" -->
-	<div>The request method, with which the server has been requested is not allowed.</div>
+	<p>The request method, with which the server has been requested is not allowed.</p>
 <!--#include file="footer.shtml" -->

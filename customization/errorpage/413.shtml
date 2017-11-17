@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Payload Too Large" -->
 
 <!--#include file="header.shtml" -->
-	<div>The request method, with which the server has been requested does not allow the data transmitted, or the data volume exceeds the capacity limit.</div>
+	<p>The request method, with which the server has been requested does not allow the data transmitted, or the data volume exceeds the capacity limit.</p>
 <!--#include file="footer.shtml" -->

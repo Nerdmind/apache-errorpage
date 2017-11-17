@@ -14,7 +14,7 @@
 		/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 		html{margin:0;padding:0;height:100%;box-sizing:border-box;font-size:1.25rem;font-family:'Share Tech Mono',sans-serif;color:#333;background:#EEE;}
 		body{margin:0;padding:0;height:100%;box-sizing:border-box;font-size:1.00rem;line-height:1.20rem;display:flex;text-align:center;}
-		main{margin:auto;max-width:40rem;}div{font-size:0.8rem;color:#0060A0;}span{color:#C45C66;}
+		main{margin:auto;max-width:30rem;}p{margin:0;font-size:0.8rem;color:#0060A0;}code{color:#C45C66;font-weight:bold;}
 
 		/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 		/* Responsive

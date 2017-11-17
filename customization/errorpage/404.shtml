@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Not Found" -->
 
 <!--#include file="header.shtml" -->
-	<div>The requested resource was not found on this server.</div>
+	<p>The requested resource was not found on this server.</p>
 <!--#include file="footer.shtml" -->

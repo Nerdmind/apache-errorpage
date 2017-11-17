@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Request-URI Too Large" -->
 
 <!--#include file="header.shtml" -->
-	<div>The length of the requested URL exceeds the capacity limit for this server. The request cannot be processed.</div>
+	<p>The length of the requested URL exceeds the capacity limit for this server. The request cannot be processed.</p>
 <!--#include file="footer.shtml" -->

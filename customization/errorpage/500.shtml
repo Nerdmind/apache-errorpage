@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Internal Server Error" -->
 
 <!--#include file="header.shtml" -->
-	<div>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there was an error in a CGI script.</div>
+	<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there was an error in a CGI script.</p>
 <!--#include file="footer.shtml" -->

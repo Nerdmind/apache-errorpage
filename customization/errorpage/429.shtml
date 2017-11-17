@@ -2,6 +2,6 @@
 <!--#set var="ERRORPAGE_TEXT" value="Too Many Requests" -->
 
 <!--#include file="header.shtml" -->
-	<div>The server has detected an unusually high number of requests from your network address <strong><span><!--#echo var="REMOTE_ADDR" --></span></strong>
-	 and will not process further requests until the flooding has subsided.</div>
+	<p>The server has detected an unusually high number of requests coming from your network (<code><!--#echo var="REMOTE_ADDR" --></code>)
+	 and will not process further requests until the flooding has subsided.</p>
 <!--#include file="footer.shtml" -->

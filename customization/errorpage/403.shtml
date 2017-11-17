@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Forbidden" -->
 
 <!--#include file="header.shtml" -->
-	<div>You don't have permission to access the requested resource.</div>
+	<p>You don't have permission to access the requested resource.</p>
 <!--#include file="footer.shtml" -->

@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Unauthorized" -->
 
 <!--#include file="header.shtml" -->
-	<div>This server could not verify that you are authorized to access this resource.</div>
+	<p>This server could not verify that you are authorized to access this resource.</p>
 <!--#include file="footer.shtml" -->

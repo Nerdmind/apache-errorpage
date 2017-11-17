@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Service Unavailable" -->
 
 <!--#include file="header.shtml" -->
-	<div>The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.</div>
+	<p>The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.</p>
 <!--#include file="footer.shtml" -->

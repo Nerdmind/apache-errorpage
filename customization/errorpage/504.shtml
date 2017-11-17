@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Gateway Timeout" -->
 
 <!--#include file="header.shtml" -->
-	<div>The gateway did not receive a timely response from the upstream server or application.</div>
+	<p>The gateway did not receive a timely response from the upstream server or application.</p>
 <!--#include file="footer.shtml" -->

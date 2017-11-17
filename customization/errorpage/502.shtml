@@ -1,0 +1,7 @@
+<!--#set var="ERRORPAGE_CODE" value="502" -->
+<!--#set var="ERRORPAGE_TEXT" value="Bad Gateway" -->
+
+<!--#include file="header.shtml" -->
+		<p>The server was acting as a gateway or proxy and received an invalid response from the upstream server (or
+		the upstream server is currently unavailable due to maintenance downtime or capacity problems).</p>
+<!--#include file="footer.shtml" -->

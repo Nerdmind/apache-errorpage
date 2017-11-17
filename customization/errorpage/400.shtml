@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Bad Request" -->
 
 <!--#include file="header.shtml" -->
-	<div>Your browser (or proxy) sent a request that this server could not understand.</div>
+	<p>Your browser (or proxy) sent a request that this server could not understand.</p>
 <!--#include file="footer.shtml" -->

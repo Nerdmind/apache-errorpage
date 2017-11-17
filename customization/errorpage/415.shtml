@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Unsupported Media Type" -->
 
 <!--#include file="header.shtml" -->
-	<div>The server does not support the media type transmitted in the request.</div>
+	<p>The server does not support the media type transmitted in the request.</p>
 <!--#include file="footer.shtml" -->

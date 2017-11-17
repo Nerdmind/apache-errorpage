@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Length Required" -->
 
 <!--#include file="header.shtml" -->
-	<div>The request method, with which the server has been requested requires a valid <code>Content-Length</code> header.</div>
+	<p>The request method, with which the server has been requested requires a valid <code>Content-Length</code> header.</p>
 <!--#include file="footer.shtml" -->

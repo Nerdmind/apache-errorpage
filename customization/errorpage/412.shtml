@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Precondition Failed" -->
 
 <!--#include file="header.shtml" -->
-	<div>The precondition on the request for the URL failed positive evaluation.</div>
+	<p>The precondition on the request for the URL failed positive evaluation.</p>
 <!--#include file="footer.shtml" -->

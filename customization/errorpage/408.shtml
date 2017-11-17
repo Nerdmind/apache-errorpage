@@ -2,5 +2,5 @@
 <!--#set var="ERRORPAGE_TEXT" value="Request Timeout" -->
 
 <!--#include file="header.shtml" -->
-	<div>The server closed the network connection because the client didn't finish the request within the specified time.</div>
+	<p>The server closed the network connection because the client didn't finish the request within the specified time.</p>
 <!--#include file="footer.shtml" -->
